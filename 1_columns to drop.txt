@@ -3,19 +3,19 @@ Longitude: too many unique values and can't be categorized
 
 
 Dropped columns:
-customer id
-zip code
-latitude
-longitude
-offer
-online security
-online backup
-paperless billing
-payment method
+customer id -> checked
+zip code -> checked
+latitude -> checked
+longitude -> checked
+offer -> checked
+online security -> checked
+online backup -> checked
+paperless billing -> checked
+payment method -> checked
 Monthly Long distance (choose avg or total)
 monthly charges = total charges / tenure in months (choose either)
-Churn Status
-Churn Reason
+Churn Status -> checked
+Churn Reason -> checked
 
-combine 3 streaming columns
+Streaming TV, Movies, Music -> combine 3 streaming columns
 
