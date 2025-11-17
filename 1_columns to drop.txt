@@ -13,9 +13,10 @@ online backup -> checked
 paperless billing -> checked
 payment method -> checked
 Monthly Long distance (choose avg or total)
-monthly charges = total charges / tenure in months (choose either)
+monthly charges = total charges / tenure in months (choose either) -> checked
+avg monthly long distance charges vs total long distance charges -> checked
 Churn Status -> checked
 Churn Reason -> checked
-
+Total revenue -> checked
 Streaming TV, Movies, Music -> combine 3 streaming columns
 
