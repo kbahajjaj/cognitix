@@ -18,5 +18,4 @@ avg monthly long distance charges vs total long distance charges -> checked
 Churn Status -> checked
 Churn Reason -> checked
 Total revenue -> checked
-Streaming TV, Movies, Music -> combine 3 streaming columns
-
+Streaming TV, Movies, Music -> combine 3 streaming columns -> checked
