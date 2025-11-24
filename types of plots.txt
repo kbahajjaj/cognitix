@@ -1,0 +1,9 @@
+univariate analysis:
+- numerical data: plot, boxplot, histogram, kdeplot, 
+- categorical data: barchart, piechart, countplot(hue)
+
+bivariate analysis:
+- num vs num: scatterplot, scatterplot(hue), jointplot, heatmap, pairplot, pairplot(hue)
+- 
+
+%SystemRoot%\system32\cmd.exe /k "cd /d \"C:\projects\cognitix\" & jupyter notebook"
