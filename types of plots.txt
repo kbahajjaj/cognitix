@@ -6,4 +6,4 @@ bivariate analysis:
 - num vs num: scatterplot, scatterplot(hue), jointplot, heatmap, pairplot, pairplot(hue)
 - 
 
-%SystemRoot%\system32\cmd.exe /k "cd /d \"C:\projects\cognitix\" & jupyter notebook"
+%SystemRoot%\system32\cmd.exe /k "cd /d \"C:\projects\cognitix\" & conda activate depi3 & jupyter notebook"
