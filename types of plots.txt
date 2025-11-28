@@ -6,4 +6,15 @@ bivariate analysis:
 - num vs num: scatterplot, scatterplot(hue), jointplot, heatmap, pairplot, pairplot(hue)
 - 
 
+
+Should I sum streaming services or not? -> YES but after missing values
+
+Should I drop total revenue column or drop the other -> Total revenue -> DONE
+
+Should I drop the outliers before the missing values handling? -> YES -> DONE
+
+Should I drop the outliers? Some of them -> DONE
+
+Should I fill missing values using nearest neighbors like groupby? -> YES
+
 %SystemRoot%\system32\cmd.exe /k "cd /d \"C:\projects\cognitix\" & conda activate depi3 & jupyter notebook"
