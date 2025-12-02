@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-388e3ea308a14f788a0ba4d3e56ddac9/artifacts
+creation_timestamp: 1764608901192
+experiment_id: '0'
+last_updated_timestamp: 1764608909424
+model_id: m-388e3ea308a14f788a0ba4d3e56ddac9
+model_type: null
+name: logreg_scaled_pipeline
+source_run_id: ace2cd7ec5db42b4bda27e2160453fd5
+status: 3
+status_message: null

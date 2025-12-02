@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ace2cd7ec5db42b4bda27e2160453fd5/artifacts
+end_time: 1764608909439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ace2cd7ec5db42b4bda27e2160453fd5
+run_name: sassy-colt-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764608900925
+status: 4
+tags: []
+user_id: Khalid Salim
