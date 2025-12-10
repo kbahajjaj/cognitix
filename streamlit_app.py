@@ -51,7 +51,7 @@ if uploaded_file is not None:
                 st.success(f"The predicted customer state for entry {i} is: {customer_status}")
 
     else:
-        st.warning(f"Warning: While your uploaded CSV file has {df.shape[1]} columns.\n\
+        st.warning(f"Warning: Your uploaded CSV file has {df.shape[1]} columns.\n\
                    It must have 34 columns/features for the Random Forest model to work.")
         st.warning("Required: Upload a CSV file with 34 columns")
 else:
