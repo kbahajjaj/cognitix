@@ -53,7 +53,7 @@ if uploaded_file is not None:
     else:
         st.warning(f"Warning: Your uploaded CSV file has {df.shape[1]} columns.\n\
                    It must have 34 columns/features for the Random Forest model to work.")
-        st.warning("Required: Upload a CSV file with 34 columns")
+        st.warning("Required: Upload a CSV file with 34 columns.")
 else:
     st.info("Please upload a CSV file to proceed.")
 
