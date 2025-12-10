@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/416889385097028402/bc8a5628dc034d209b86bab2c8be3751/artifacts
+end_time: 1765326659464
+entry_point_name: ''
+experiment_id: '416889385097028402'
+lifecycle_stage: active
+run_id: bc8a5628dc034d209b86bab2c8be3751
+run_name: Run for @dev
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765326649654
+status: 3
+tags: []
+user_id: Khalid Salim

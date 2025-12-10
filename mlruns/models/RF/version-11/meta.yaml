@@ -1,0 +1,15 @@
+creation_timestamp: 1765333979189
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1765333979189
+model_id: m-add7a1b9751e4755bcd333d472ce83b7
+name: RF
+run_id: 2eecf62259d64eb8becb5c23c5d7f827
+run_link: ''
+source: models:/m-add7a1b9751e4755bcd333d472ce83b7
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/416889385097028402/models/m-add7a1b9751e4755bcd333d472ce83b7/artifacts
+user_id: null
+version: 11
