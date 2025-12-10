@@ -48,7 +48,7 @@ if uploaded_file is not None:
                     customer_status = 'Churned'
                 else:
                     customer_status = 'Stayed'
-                st.success(f"The predicted customer state for entry {i} is: {customer_status}")
+                st.success(f"The predicted customer state for entry {i} --> {customer_status}")
 
     else:
         st.warning(f"Warning: Your uploaded CSV file has {df.shape[1]} columns.\n\
