@@ -6,21 +6,19 @@ import os
 # Define the relative path to your model file
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
 MODEL_PATH = os.path.join(DIRPATH, "rf_gscv_model.pkl")
-SCALER_PATH = os.path.join(DIRPATH, "rf_gscv_model.pkl")
 
 
 # Load the trained model
 @st.cache_resource
-def load_object(path):
+def load_model(path):
     with open(path, 'rb') as f:
         loaded_object = joblib.load(f)
     return loaded_object
 
-model = load_object(MODEL_PATH)
-scaler = load_object(SCALER_PATH)
+model = load_model(MODEL_PATH)
 
 # --- Streamlit App Interface ---
-st.logo(image="logo.png", size="medium")
+#st.logo(image="logo.png", size="large")
 st.header("Customer Churn Analysis & Prediction")
 st.write("Enter input features to get a prediction:")
 
