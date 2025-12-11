@@ -18,7 +18,7 @@ def load_model(path):
 model = load_model(MODEL_PATH)
 
 # --- Streamlit App Interface ---
-#st.logo(image="logo.png", size="large")
+st.logo(image="logo.png", size="large")
 st.header("Customer Churn Analysis & Prediction")
 st.write("Enter input features to get a prediction:")
 
